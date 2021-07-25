@@ -19,3 +19,6 @@ Each record consists of three attributes:
 * ```headline```: the headline of the news article
 
 * ```article_link```: link to the original news article. Useful in collecting supplementary data
+
+## Overview
+This data set is a collection of headlines from 2 sources - The Onion and The Huffington Post - the former being an exclusively satirical publication and the latter being a mixture of both satire and serious pieces. Each headline contains headlines as strings of between 10 and 15 words of which there are just shy of 27000 data points. The aim is to classify each of these headlines as either sarcastic or serious.
